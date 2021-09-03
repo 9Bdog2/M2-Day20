@@ -2,6 +2,10 @@ body{
     background-color: #D8D8D8;
 }
 
+h3{
+    margin-left: 10px;
+}
+
 .albumContainer{
     text-align: center;
     padding-bottom: 1em;
@@ -13,4 +17,21 @@ body{
 
  .bg-dark{
      background-color: #262626;
+ }
+
+ .navbar-right{
+     color: white;
+     margin-right: 30%;
+     font-size: larger;
+
+ }
+ .navbar-left{
+    margin-left: 14%;
+ }
+
+ .navbar-p{
+     display: inline;
+ }
+ .smaller-titles{
+     display: flex;
  }
