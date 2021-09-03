@@ -1,0 +1,16 @@
+body{
+    background-color: #D8D8D8;
+}
+
+.albumContainer{
+    text-align: center;
+    padding-bottom: 1em;
+    margin: 1em;
+ }
+ .album-container img{
+    width: 100%;
+ }
+
+ .bg-dark{
+     background-color: #262626;
+ }
